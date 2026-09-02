@@ -4,7 +4,7 @@ icon: fas fa-trophy
 order: 5
 ---
 
-# Hall of Fame,Rewards and Appreciations
+## Hall of Fame,Rewards and Appreciations
 
 - [United Nations ICT Security](https://unite.un.org/ict-security/hall-fame){:target="_blank"}
 - [UNESCO’s Security](https://www.unesco.org/en/vulnerability-disclosure){:target="_blank"}
