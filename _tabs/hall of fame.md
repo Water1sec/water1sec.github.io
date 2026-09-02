@@ -1,8 +1,10 @@
 ---
-title: Acknowledgements(Hall of Fame,Rewards and Appreciations)
+title: Acknowledgements
 icon: fas fa-trophy
 order: 5
 ---
+
+# (Hall of Fame,Rewards and Appreciations)
 
 - [United Nations ICT Security](https://unite.un.org/ict-security/hall-fame){:target="_blank"}
 - [UNESCO’s Security](https://www.unesco.org/en/vulnerability-disclosure){:target="_blank"}
@@ -31,8 +33,12 @@ order: 5
 - [Australian Government Department of Health, Disability and Ageing](https://www.health.gov.au/using-our-websites/vulnerability-disclosure-policy){:target="_blank"}
 - [International Committee of the Red Cross](https://vdp.icrc.org/p/Hall-of-Fame){:target="_blank"}
 - [EMBL - European Bioinformatics Institute](https://www.ebi.ac.uk/security/hall-of-fame/){:target="_blank"}
+- [Technische Universität Chemnitz (Chemnitz University of Technology)](https://www.tu-chemnitz.de/urz/www/server.html.en#server){:target="_blank"}
+- [UD Media GmbH](https://udmedia.de/security/hall-of-fame/){:target="_blank"}
+- [ACT Government (Government of the Australian Capital Territory)](https://www.act.gov.au/directorates-and-agencies/digital-canberra/digital-data-and-technology-solutions/report-a-system-security-vulnerability){:target="_blank"}
+- [Stichting Z-CERT](https://z-cert.nl/kwetsbaarheid-melden/hall-of-fame){:target="_blank"}
+- [World Health Organization (WHO)](https://www.who.int/about/cybersecurity/vulnerability-hall-of-fame/ethical-hacker-list){:target="_blank"}
 
-### Other acknowledgments
 
 - ESET
 - NASA
@@ -47,3 +53,7 @@ order: 5
 - Universiteit Leiden
 - Delft
 - Gemeente Gorinchem
+- Windesheim
+- Ministry of Education (New Zealand)
+- Karlsruhe Institute of Technology Computer Emergency Response Team (KIT-CERT)
+- New Zealand Parliament (Parliament of New Zealand)
